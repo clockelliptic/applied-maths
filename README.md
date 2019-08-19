@@ -1,6 +1,4 @@
-(Advanced) Python for Science - Physical Systems and Applied Mathematics
-
-Mathematics Labs written in Python. Subjects include Differential Equations, Multivariable and Vector Calculus, and Linear Algebra.
+Computing and Visualizing Multivariable & Vector Calculus and Differential Equations with Python
 
 
 Click here to view and interact with live, functional python notebooks: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/clockelliptic/PSAM1819/master)
