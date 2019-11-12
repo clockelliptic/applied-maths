@@ -1,0 +1,16 @@
+{
+    "title":"Advanced Calculus in Python",
+    "description":"Rigorous 10 week curriculum of advanced concepts in applied calculus performed with Python, including mutlivariable and vector calculus and differential equations.",
+    "tags":{
+       "languages":[
+          "python", "mathematics"
+       ],
+       "tooling":[
+          "numpy", "sympy", "plotly", "matplotlib", "skimage"
+       ],
+       "keywords":[
+          "applied mathematics", "multivariable", "vector", "calculus", "differential equations", "graphing", "visualization"
+       ]
+    },
+    "n_images":7
+ }
